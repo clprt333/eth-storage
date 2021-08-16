@@ -2,6 +2,8 @@
 
 use ganache (might need ganache-cli)
 
+use npm install in directory
+
 check truffle-config.js, make sure it corresponds to the ganache network
 
 
